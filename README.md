@@ -1,2 +1,2 @@
-# Sparse_NonLinearVAR_Lasso
-Sparse_NonLinearVAR_Lasso
+# NonLinearVAR
+ Code for interpretable nonlinear VAR
