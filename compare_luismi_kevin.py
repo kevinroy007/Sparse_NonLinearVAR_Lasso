@@ -75,6 +75,8 @@ if p_test:
     axis[0, 1].set_xlabel("Time")
     axis[0, 1].legend()
 
+    
+
 
     #set up the server tomorrow.
     # plt.imshow(A_true[:,:,1])
